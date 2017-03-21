@@ -2,8 +2,8 @@
 
 /bin/
 
+.gradle/
 .metadata/
 .project
 .classpath
 .settings
-/gradle
